@@ -1,0 +1,25 @@
+Selenium
+Pytest
+pytest-html
+pytest-xdist
+OpenPyxl
+Allure-Pytest
+ConfigParser
+
+In PyCharm, go to "File" > "Settings" (or "PyCharm" > "Preferences" on macOS).
+In the left pane, navigate to "Python Integrated Tools" and select "Pytest."
+In the right pane, specify the following:
+
+
+pytest --rA --html=Reports\Reports.html TestCases/test_Email_Transcription.py::TestCases/test_End_the_session_from_user_side.py::TestCases/test_Sessions_getting_logged_or_Not.py
+
+
+Python Markers:
+@pytest.mark.smoke has 2
+@pytest.mark.optional has 1
+@pytest.mark.regression  has 3
+#command to use markers, m stands for marker
+
+            pytest -m smoke
+            pytest -m optional
+            pytest -clearm regression

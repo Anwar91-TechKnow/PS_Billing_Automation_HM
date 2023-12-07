@@ -1,0 +1,1904 @@
+11/Nov/23 10:41:41:17 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 10:47:47:01 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 10:47:47:10 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 10:47:47:12 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 10:47:47:25 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 10:47:47:25 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 10:49:49:06 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 10:49:49:14 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 10:49:49:16 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 10:49:49:30 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 10:49:49:30 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 10:53:53:23 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 10:53:53:32 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 10:53:53:35 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 10:53:53:47 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 10:53:53:48 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 10:54:54:15 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 10:54:54:23 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 10:54:54:25 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 10:54:54:38 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 10:54:54:38 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 10:55:55:31 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 10:55:55:39 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 10:55:55:41 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 10:55:55:54 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 10:55:55:55 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 10:59:59:22 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 10:59:59:30 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 10:59:59:33 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 10:59:59:46 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 10:59:59:46 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 11:51:51:52 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 11:52:52:01 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 11:52:52:04 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 11:52:52:17 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 11:52:52:17 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 12:19:19:43 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:20:20:05 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:20:20:14 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:20:20:16 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:20:20:29 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:20:20:29 AM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 12:21:21:00 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:21:21:08 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:21:21:10 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:21:21:23 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:21:21:23 AM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 12:44:44:02 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:44:44:11 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:44:44:13 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:44:44:25 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:44:44:26 AM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 12:46:46:30 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:46:46:38 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:46:46:40 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:46:46:53 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:46:46:53 AM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 12:58:58:31 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:58:58:40 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:58:58:42 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:58:58:55 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:58:58:55 AM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 01:19:19:55 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 01:20:20:04 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 01:20:20:06 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:20:20:18 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 01:20:20:19 AM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 01:28:28:51 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 01:29:29:03 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 01:29:29:05 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:29:29:17 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 01:29:29:17 AM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 01:32:32:02 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 01:32:32:10 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 01:32:32:12 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:32:32:25 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 01:32:32:25 AM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 11:36:36:10 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 11:36:36:19 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 11:36:36:22 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 11:36:36:35 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 11:36:36:35 AM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 11:38:38:53 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 11:39:39:01 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 11:39:39:04 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 11:39:39:17 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 11:39:39:17 AM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 01:08:08:27 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 01:15:15:50 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 01:15:15:57 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 01:15:15:59 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:16:16:12 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 01:16:16:20 AM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 01:16:16:52 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 01:17:17:26 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 01:17:17:32 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 01:17:17:34 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:17:17:57 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 01:18:18:03 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 01:18:18:05 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:51:51:17 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 01:51:51:17 AM: INFO: --TC#4 (test_Email_Transcription) Started--
+11/Nov/23 01:51:51:24 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 01:51:51:26 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:51:51:39 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 01:51:51:39 AM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 01:52:52:46 AM: INFO: --TC#1 (test_Sessions_getting_logged_or_Not) Started--
+11/Nov/23 01:52:52:47 AM: INFO: --TC#4 (test_Email_Transcription) Started--
+11/Nov/23 01:52:52:47 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 01:52:52:54 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 01:52:52:56 AM: INFO: --TC#1 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:52:52:56 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:52:52:56 AM: INFO: --TC#4 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:53:53:06 AM: INFO: --TC#4 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 01:53:53:06 AM: INFO: --TC#1 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 01:53:53:09 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 01:53:53:09 AM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 01:53:53:35 AM: INFO: --TC#1 -Able to close chat successfully.--
+11/Nov/23 01:53:53:35 AM: INFO: --TC#1 - Test cases ended successfully--
+11/Nov/23 01:55:55:34 AM: INFO: --TC#4 (test_Email_Transcription) Started--
+11/Nov/23 01:56:56:32 AM: INFO: --TC#4 (test_Email_Transcription) Started--
+11/Nov/23 01:56:56:51 AM: INFO: --TC#4 (test_Email_Transcription) Started--
+11/Nov/23 01:57:57:09 AM: INFO: --TC#4 (test_Email_Transcription) Started--
+11/Nov/23 01:57:57:21 AM: INFO: --TC#4 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:57:57:30 AM: INFO: --TC#4 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 01:58:58:12 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 01:58:58:12 AM: INFO: --TC#1 (test_Sessions_getting_logged_or_Not) Started--
+11/Nov/23 01:58:58:12 AM: INFO: --TC#4 (test_Email_Transcription) Started--
+11/Nov/23 01:58:58:18 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 01:58:58:21 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:58:58:21 AM: INFO: --TC#1 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:58:58:31 AM: INFO: --TC#4 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 01:58:58:32 AM: INFO: --TC#1 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 01:58:58:34 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 01:58:58:34 AM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 01:58:58:46 AM: INFO: --TC#4 -Email transcription test case completed--
+11/Nov/23 01:59:59:00 AM: INFO: --TC#1 -Able to close chat successfully.--
+11/Nov/23 01:59:59:00 AM: INFO: --TC#1 - Test cases ended successfully--
+11/Nov/23 01:59:59:40 AM: INFO: --TC#4 (test_Email_Transcription) Started--
+11/Nov/23 01:59:59:49 AM: INFO: --TC#4 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:59:59:59 AM: INFO: --TC#4 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 02:00:00:14 AM: INFO: --TC#4 -Email transcription test case completed--
+11/Nov/23 02:01:01:40 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 02:01:01:40 AM: INFO: --TC#4 (test_Email_Transcription) Started--
+11/Nov/23 02:01:01:40 AM: INFO: --TC#1 (test_Sessions_getting_logged_or_Not) Started--
+11/Nov/23 02:01:01:46 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 02:01:01:49 AM: INFO: --TC#4 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 02:01:01:49 AM: INFO: --TC#1 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 02:01:01:49 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 02:01:01:58 AM: INFO: --TC#4 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 02:01:01:59 AM: INFO: --TC#1 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 02:02:02:01 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 02:02:02:02 AM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 02:02:02:13 AM: INFO: --TC#4 -Email transcription test case completed--
+11/Nov/23 02:02:02:13 AM: INFO: --TC#4 - Test cases ended successfully--
+11/Nov/23 02:02:02:28 AM: INFO: --TC#1 -Able to close chat successfully.--
+11/Nov/23 02:02:02:28 AM: INFO: --TC#1 - Test cases ended successfully--
+11/Nov/23 11:58:58:32 AM: INFO: --TC#4 (test_Email_Transcription) Started--
+11/Nov/23 11:58:58:32 AM: INFO: --TC#6 (test_VA_interaction_timeout_Inactivity_30 MinutesDefault) Started--
+11/Nov/23 11:58:58:33 AM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+11/Nov/23 11:58:58:34 AM: INFO: --TC#1 (test_Sessions_getting_logged_or_Not) Started--
+11/Nov/23 11:58:58:34 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 11:58:58:34 AM: INFO: --TC#5 (test_continuously_more_than_30_minutes _VA_Only) Started--
+11/Nov/23 11:58:58:43 AM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 11:58:58:45 AM: INFO: --TC#3 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 11:58:58:45 AM: INFO: --TC#1 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 11:58:58:46 AM: INFO: --TC#5 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 11:58:58:46 AM: INFO: --TC#6 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 11:58:58:46 AM: INFO: --TC#4 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 11:58:58:46 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 11:58:58:54 AM: INFO: --TC#5 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 11:58:58:54 AM: INFO: --TC#5 -interval of each 2 min started.--
+11/Nov/23 11:58:58:54 AM: INFO: --TC#6 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 11:58:58:55 AM: INFO: --TC#3 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 11:58:58:56 AM: INFO: --TC#4 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 11:58:58:56 AM: INFO: --TC#1 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 11:58:58:57 AM: INFO: --TC#3 -28 min inactivity started.--
+11/Nov/23 11:58:58:59 AM: INFO: --TC#6 -Inactivity of 29 min started.--
+11/Nov/23 11:59:59:00 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 11:59:59:00 AM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 11:59:59:14 AM: INFO: --TC#4 -Email transcription test case completed--
+11/Nov/23 11:59:59:14 AM: INFO: --TC#4 - Test cases ended successfully--
+11/Nov/23 11:59:59:26 AM: INFO: --TC#1 -Able to close chat successfully.--
+11/Nov/23 11:59:59:26 AM: INFO: --TC#1 - Test cases ended successfully--
+11/Nov/23 12:26:26:58 PM: INFO: --TC#3 -28 min inactivity completed.--
+11/Nov/23 12:27:27:05 PM: INFO: --TC#3 -input entered successfully after inactivity of 28 min no issue found.--
+11/Nov/23 12:27:27:09 PM: INFO: --TC#3 -Clicked humburger menu successfully.--
+11/Nov/23 12:27:27:11 PM: INFO: --TC#3 -Selected the email option successfully.--
+11/Nov/23 12:27:27:13 PM: INFO: --TC#3 -Entered email address successfully.--
+11/Nov/23 12:27:27:15 PM: INFO: --TC#3 -Email sent successfully.--
+11/Nov/23 12:27:27:16 PM: INFO: --TC#3 -28 min inactivity completed with Email chat conversation successfully.--
+11/Nov/23 12:27:27:16 PM: INFO: --TC#3 - Test cases ended successfully--
+11/Nov/23 12:28:28:59 PM: INFO: --TC#6 -Inactivity at 30 min.--
+11/Nov/23 12:30:30:00 PM: INFO: --TC#6 -Inactivity at 31 min.--
+11/Nov/23 12:32:32:00 PM: INFO: --TC#6 -Inactivity at 33 min.--
+11/Nov/23 12:32:32:59 PM: INFO: --TC#5 -36 min over.--
+11/Nov/23 12:33:33:01 PM: INFO: --TC#5 -37 min over.--
+11/Nov/23 12:33:33:01 PM: INFO: --TC#5 -able to continue chat for more than 30 min successfully--
+11/Nov/23 12:33:33:10 PM: INFO: --TC#5 -Email transcription test case completed--
+11/Nov/23 12:33:33:10 PM: INFO: --TC#5 - Test cases ended successfully--
+11/Nov/23 11:35:35:24 AM: INFO: --TC#4 (test_Email_Transcription) Started--
+11/Nov/23 06:14:14:04 PM: INFO: --TC#4 (test_Email_Transcription) Started--
+11/Nov/23 06:14:14:15 PM: INFO: --TC#4 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:11:11:31 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:11:11:38 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:11:11:40 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:11:11:53 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:12:12:24 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:12:12:31 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:12:12:33 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:12:12:48 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:13:13:32 PM: INFO: --TC#1 (test_Sessions_getting_logged_or_Not) Started--
+11/Nov/23 12:13:13:40 PM: INFO: --TC#1 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:13:13:51 PM: INFO: --TC#1 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:14:14:58 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:15:15:05 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:15:15:07 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:15:15:20 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:20:20:50 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:20:20:57 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:21:21:00 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:21:21:12 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:22:22:23 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:22:22:30 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:22:22:32 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:22:22:45 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:23:23:20 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:23:23:27 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:23:23:29 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:23:23:41 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:25:25:21 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:25:25:27 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:25:25:30 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:25:25:42 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:26:26:42 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:26:26:48 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:26:26:50 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:27:27:03 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:27:27:37 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:27:27:45 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:27:27:47 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:28:28:00 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:30:30:31 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:30:30:38 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:30:30:40 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:30:30:53 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:31:31:26 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:31:31:33 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:31:31:35 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:31:31:47 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:32:32:41 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:32:32:48 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:32:32:51 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:33:33:03 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:33:33:03 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 12:33:33:36 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:33:33:43 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:33:33:45 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:33:33:57 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:34:34:10 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:34:34:16 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:34:34:18 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:34:34:31 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:34:34:31 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 12:43:43:23 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:43:43:30 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:43:43:33 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:43:43:45 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:44:44:51 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:44:44:58 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:45:45:00 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:45:45:13 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:47:47:01 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:47:47:07 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:47:47:10 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:47:47:22 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:47:47:41 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:47:47:48 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:47:47:50 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:48:48:03 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:48:48:03 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 12:48:48:12 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:48:48:18 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:48:48:20 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:48:48:33 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:48:48:33 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 01:02:02:03 PM: INFO: --TC#4 (test_Email_Transcription) Started--
+11/Nov/23 01:02:02:12 PM: INFO: --TC#4 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:02:02:22 PM: INFO: --TC#4 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 01:02:02:37 PM: INFO: --TC#4 -Email transcription test case completed--
+11/Nov/23 01:02:02:37 PM: INFO: --TC#4 - Test cases ended successfully--
+11/Nov/23 01:02:02:45 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 01:02:02:51 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 01:02:02:53 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:03:03:06 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 01:03:03:06 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 01:03:03:14 PM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+11/Nov/23 01:03:03:31 PM: INFO: --TC#4 (test_Email_Transcription) Started--
+11/Nov/23 01:03:03:37 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001674495FA90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a86b4e2621ba871a7dafee9f6127d629
+11/Nov/23 01:04:04:12 PM: INFO: --TC#1 (test_Sessions_getting_logged_or_Not) Started--
+11/Nov/23 01:07:07:48 PM: INFO: --TC#6 (test_VA_interaction_timeout_Inactivity_30 MinutesDefault) Started--
+11/Nov/23 01:07:07:58 PM: INFO: --TC#6 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:08:08:05 PM: INFO: --TC#6 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 01:08:08:09 PM: INFO: --TC#6 -Inactivity of 29 min started.--
+11/Nov/23 05:51:51:50 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 05:51:51:51 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 05:51:51:51 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 05:51:51:53 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 05:52:52:04 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 05:52:52:09 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 05:52:52:14 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 05:52:52:18 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 05:52:52:18 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 05:52:52:20 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed button.--
+11/Nov/23 05:52:52:22 PM: INFO: ****TC#1_NDEP: clicked to search summary.--
+11/Nov/23 05:52:52:22 PM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+11/Nov/23 05:52:52:24 PM: INFO: ****TC#1_NDEP: Entire Completed successfully.--
+11/Nov/23 05:52:52:26 PM: INFO: ****TC#1_NDEP: Testcase ended.--
+11/Nov/23 05:55:55:15 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 05:55:55:15 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 05:55:55:15 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 05:55:55:17 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 05:55:55:26 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 05:55:55:30 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 05:55:55:35 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 05:55:55:39 PM: INFO: ****TC#1_NDEP: Entered the engagement ID.--
+11/Nov/23 05:55:55:41 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed button.--
+11/Nov/23 05:55:55:43 PM: INFO: ****TC#1_NDEP: clicked to search summary.--
+11/Nov/23 05:55:55:43 PM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+11/Nov/23 05:55:55:45 PM: INFO: ****TC#1_NDEP: Entire Completed successfully.--
+11/Nov/23 05:55:55:47 PM: INFO: ****TC#1_NDEP: Testcase ended.--
+11/Nov/23 06:22:22:01 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 06:22:22:09 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 06:22:22:11 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 06:22:22:44 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 06:22:22:50 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 06:22:22:52 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 06:23:23:19 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 06:23:23:26 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 06:23:23:28 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 06:23:23:41 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 06:23:23:41 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 06:25:25:22 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 06:25:25:29 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 06:25:25:31 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 06:27:27:37 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 06:27:27:44 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 06:27:27:47 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 06:28:28:12 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 06:28:28:19 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 06:28:28:21 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 06:30:30:24 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 06:30:30:31 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 06:30:30:33 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 06:33:33:11 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 06:33:33:17 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 06:33:33:20 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 06:34:34:32 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 06:34:34:39 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 06:34:34:41 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 06:36:36:48 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 06:36:36:55 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 06:36:36:57 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 06:38:38:24 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 06:38:38:31 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 06:38:38:33 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 06:39:39:18 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 06:39:39:25 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 06:39:39:27 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 06:39:39:40 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 06:41:41:35 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 06:41:41:42 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 06:41:41:44 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 06:41:41:57 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 06:47:47:17 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 06:47:47:24 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 06:47:47:26 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 06:47:47:39 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 06:54:54:11 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 06:54:54:18 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 06:54:54:21 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 06:54:54:42 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 06:54:54:49 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 06:54:54:51 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 06:55:55:04 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 06:55:55:38 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 06:55:55:45 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 06:55:55:47 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 06:56:56:00 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 06:56:56:00 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 07:02:02:53 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 07:03:03:00 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 07:03:03:02 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 07:03:03:15 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 07:03:03:15 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 07:03:03:56 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 07:04:04:03 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 07:04:04:05 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 07:04:04:50 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 07:04:04:57 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 07:04:04:59 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 07:05:05:13 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 07:05:05:20 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 07:05:05:22 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 07:05:05:34 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 07:05:05:35 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 07:11:11:21 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 07:11:11:28 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 07:11:11:30 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 07:11:11:50 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 07:11:11:57 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 07:11:11:59 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 07:13:13:32 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 07:13:13:38 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 07:13:13:41 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 07:14:14:28 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 07:14:14:34 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 07:14:14:36 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 07:15:15:50 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 07:15:15:56 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 07:15:15:59 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 07:17:17:27 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 07:17:17:33 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 07:17:17:35 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 07:18:18:46 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 07:18:18:52 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 07:18:18:54 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 07:20:20:00 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 07:20:20:06 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 07:20:20:08 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 07:22:22:34 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 07:22:22:41 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 07:22:22:43 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 07:22:22:56 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 07:22:22:56 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 07:37:37:14 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 07:37:37:22 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 07:37:37:24 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 07:37:37:36 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 07:37:37:36 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 07:38:38:31 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 07:38:38:38 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 07:38:38:40 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 07:38:38:53 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 07:38:38:53 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 12:07:07:37 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:07:07:44 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 12:07:07:46 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:07:07:58 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 12:07:07:58 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 12:27:27:41 PM: INFO: Engagement ID accepted
+11/Nov/23 05:09:09:05 PM: INFO: --TC#4 (test_Email_Transcription) Started--
+11/Nov/23 05:09:09:14 PM: INFO: --TC#4 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 05:09:09:24 PM: INFO: --TC#4 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 05:09:09:39 PM: INFO: --TC#4 -Email transcription test case completed--
+11/Nov/23 05:09:09:39 PM: INFO: --TC#4 - Test cases ended successfully--
+11/Nov/23 05:09:09:47 PM: INFO: --TC#1 (test_Sessions_getting_logged_or_Not) Started--
+11/Nov/23 05:09:09:55 PM: INFO: --TC#1 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 05:10:10:06 PM: INFO: --TC#1 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 05:10:10:34 PM: INFO: --TC#1 -Able to close chat successfully.--
+11/Nov/23 05:10:10:34 PM: INFO: --TC#1 - Test cases ended successfully--
+11/Nov/23 05:10:10:41 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 05:10:10:49 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 05:10:10:51 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 05:11:11:04 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 05:11:11:04 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 05:12:12:05 PM: INFO: --TC#4 (test_Email_Transcription) Started--
+11/Nov/23 05:12:12:14 PM: INFO: --TC#4 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 05:12:12:24 PM: INFO: --TC#4 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 05:12:12:39 PM: INFO: --TC#4 -Email transcription test case completed--
+11/Nov/23 05:12:12:39 PM: INFO: --TC#4 - Test cases ended successfully--
+11/Nov/23 05:12:12:47 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 05:12:12:54 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 05:12:12:56 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 05:13:13:08 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 05:13:13:09 PM: INFO: --TC#2 - Test cases ended successfully--
+11/Nov/23 05:13:13:17 PM: INFO: --TC#1 (test_Sessions_getting_logged_or_Not) Started--
+11/Nov/23 05:13:13:26 PM: INFO: --TC#1 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 05:13:13:37 PM: INFO: --TC#1 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+11/Nov/23 05:22:22:27 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 05:22:22:27 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 05:22:22:27 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 05:22:22:30 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 05:22:22:47 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 05:22:22:50 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 05:22:22:56 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 05:22:22:59 PM: INFO: ****TC#1_NDEP: Entered the engagement ID.--
+11/Nov/23 05:23:23:01 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed button.--
+11/Nov/23 05:23:23:03 PM: INFO: ****TC#1_NDEP: clicked to search summary.--
+11/Nov/23 05:23:23:03 PM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+11/Nov/23 05:23:23:05 PM: INFO: ****TC#1_NDEP: Entire Completed successfully.--
+11/Nov/23 05:23:23:07 PM: INFO: ****TC#1_NDEP: Testcase ended.--
+11/Nov/23 01:10:10:03 AM: INFO: --TC#5 (test_continuously_more_than_30_minutes _VA_Only) Started--
+11/Nov/23 01:34:34:38 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 01:36:36:40 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 01:38:38:05 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 01:38:38:05 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 01:38:38:07 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 01:38:38:49 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 01:39:39:15 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 01:39:39:29 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 01:39:39:57 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 01:39:39:57 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 01:39:39:57 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 01:39:39:59 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 01:40:40:12 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 01:40:40:50 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 01:41:41:04 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 01:41:41:13 AM: INFO: ****TC#1_NDEP: Entered the engagement ID.--
+11/Nov/23 01:41:41:15 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed button.--
+11/Nov/23 01:57:57:19 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 01:57:57:20 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 01:57:57:20 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 01:57:57:22 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 01:57:57:37 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 01:57:57:51 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 01:59:59:06 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 01:59:59:07 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 01:59:59:07 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 01:59:59:09 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:00:00:27 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 02:00:00:36 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 02:01:01:16 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:01:01:16 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 02:01:01:16 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 02:01:01:18 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:01:01:25 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 02:01:01:36 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 02:02:02:34 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:04:04:01 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:08:08:47 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:08:08:47 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 02:08:08:48 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 02:08:08:50 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:09:09:00 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 02:09:09:08 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 02:10:10:52 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:11:11:22 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:11:11:44 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:12:12:29 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:13:13:16 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:13:13:16 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 02:13:13:16 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 02:13:13:18 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:13:13:34 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 02:13:13:37 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 02:16:16:42 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:16:16:42 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 02:16:16:42 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 02:16:16:44 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:16:16:54 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 02:16:16:59 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 02:17:17:05 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 02:19:19:33 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:19:19:33 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 02:19:19:34 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 02:19:19:36 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:19:19:46 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 02:19:19:49 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 02:19:19:54 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 02:20:20:29 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:20:20:30 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 02:20:20:30 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 02:20:20:32 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:20:20:39 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 02:20:20:42 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 02:20:20:48 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 02:21:21:19 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:21:21:19 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 02:21:21:19 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 02:21:21:22 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:22:22:06 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 02:22:22:06 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 02:22:22:06 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 02:22:22:08 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 02:22:22:15 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 02:22:22:18 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 02:22:22:21 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 02:22:22:31 AM: INFO: ****TC#1_NDEP: Entered the engagement ID.--
+11/Nov/23 02:22:22:33 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed button.--
+11/Nov/23 02:26:26:34 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:26:26:34 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 02:26:26:34 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 02:26:26:36 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:32:32:07 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:32:32:07 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 02:32:32:08 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 02:32:32:10 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:32:32:17 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 02:32:32:22 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 02:32:32:28 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 02:34:34:22 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:34:34:22 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 02:34:34:23 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 02:34:34:25 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:34:34:33 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 02:34:34:35 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 02:34:34:45 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020EEAD2E850>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/04103eaaf4d33212e39891a02e8fe389
+11/Nov/23 02:34:34:49 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020EEBA26A00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/04103eaaf4d33212e39891a02e8fe389
+11/Nov/23 02:34:34:53 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020EEBA26D60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/04103eaaf4d33212e39891a02e8fe389
+11/Nov/23 02:35:35:08 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:35:35:08 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 02:35:35:08 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 02:35:35:11 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:35:35:18 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 02:35:35:22 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 02:35:35:27 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 02:39:39:10 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:39:39:10 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 02:39:39:10 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 02:39:39:12 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:39:39:19 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 02:39:39:22 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 02:39:39:28 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 02:40:40:43 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:40:40:43 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 02:40:40:43 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 02:40:40:45 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:40:40:52 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 02:40:40:55 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 02:41:41:00 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 02:41:41:41 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:41:41:41 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 02:41:41:41 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 02:41:41:43 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:41:41:52 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 02:41:41:55 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 02:42:42:01 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 02:44:44:47 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:44:44:47 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 02:44:44:47 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 02:44:44:49 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:45:45:14 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 02:45:45:17 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 02:45:45:22 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 02:47:47:02 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:47:47:03 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 02:47:47:03 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 02:47:47:05 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:47:47:15 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 02:47:47:18 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 02:47:47:24 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 02:48:48:28 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 02:48:48:28 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 02:48:48:28 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 02:48:48:30 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 02:48:48:37 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 02:48:48:40 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 02:48:48:46 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 11:05:05:01 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 11:05:05:01 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 11:05:05:01 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 11:05:05:03 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 11:05:05:11 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:05:05:14 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 11:06:06:35 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 11:06:06:35 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 11:06:06:35 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 11:06:06:37 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 11:06:06:45 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:06:06:48 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 11:06:06:53 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 11:07:07:57 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 11:07:07:58 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 11:07:07:58 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 11:08:08:00 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 11:08:08:14 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:08:08:19 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 11:08:08:24 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 11:09:09:29 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 11:09:09:29 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 11:09:09:29 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 11:09:09:31 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 11:09:09:38 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:09:09:40 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 11:09:09:46 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 11:10:10:38 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 11:10:10:38 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 11:10:10:38 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 11:10:10:40 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 11:10:10:47 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:10:10:50 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 11:10:10:55 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 11:12:12:14 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 11:12:12:14 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 11:12:12:14 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 11:12:12:16 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 11:12:12:24 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:12:12:25 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 11:12:12:47 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 11:12:12:47 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 11:12:12:48 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 11:12:12:50 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 11:12:12:57 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:13:13:01 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 11:13:13:06 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 11:13:13:47 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 11:13:13:47 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 11:13:13:47 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 11:13:13:50 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 11:13:13:56 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:13:13:59 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 11:14:14:04 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 11:15:15:02 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 11:15:15:02 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 11:15:15:02 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 11:15:15:04 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 11:15:15:11 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:15:15:14 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 11:15:15:20 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 11:15:15:55 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 11:15:15:56 AM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 11:15:15:56 AM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 11:15:15:58 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 11:16:16:04 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:16:16:07 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 11:16:16:13 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 01:02:02:39 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 01:02:02:40 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 01:02:02:40 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 01:02:02:42 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 01:02:02:51 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 01:02:02:54 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 01:04:04:38 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 01:04:04:39 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 01:04:04:39 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 01:04:04:41 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 01:04:04:48 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 01:05:05:03 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 03:19:19:43 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 03:19:19:43 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 03:19:19:43 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 03:19:19:45 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 03:19:19:53 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 03:19:19:56 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 03:22:22:19 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 03:22:22:19 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 03:22:22:19 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 03:22:22:21 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 03:22:22:28 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 03:22:22:32 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 03:23:23:48 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 03:23:23:48 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 03:23:23:48 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 03:23:23:50 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 03:23:23:57 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 03:24:24:00 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 03:26:26:56 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 03:26:26:56 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 03:26:26:56 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 03:26:26:58 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 03:27:27:06 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 03:27:27:09 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 03:28:28:39 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 03:28:28:40 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 03:28:28:40 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 03:28:28:42 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 03:28:28:48 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 03:28:28:51 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 03:30:30:14 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 03:30:30:15 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 03:30:30:15 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 03:30:30:17 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 03:30:30:24 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 03:30:30:29 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 03:34:34:11 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 03:34:34:12 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 03:34:34:12 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 03:34:34:14 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 03:34:34:21 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 03:34:34:25 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 03:44:44:01 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 03:44:44:01 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 03:44:44:01 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 03:44:44:03 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 03:44:44:10 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 03:44:44:13 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 03:46:46:13 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 03:46:46:13 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 03:46:46:13 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 03:46:46:16 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 03:46:46:23 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 03:46:46:26 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 03:48:48:59 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 03:48:48:59 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 03:48:48:59 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 03:49:49:01 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 03:49:49:09 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 03:49:49:13 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 03:52:52:18 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 03:52:52:18 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 03:52:52:18 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 03:52:52:20 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 03:52:52:28 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 03:52:52:31 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 03:53:53:00 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 03:53:53:01 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 03:53:53:01 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 03:53:53:03 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 03:53:53:14 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 03:53:53:17 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 04:06:06:28 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 04:06:06:29 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 04:06:06:29 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 04:06:06:31 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 04:06:06:42 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 04:06:06:46 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 04:07:07:32 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 04:07:07:32 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 04:07:07:32 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 04:07:07:34 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 04:07:07:41 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 04:07:07:44 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 04:08:08:44 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 04:08:08:44 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 04:08:08:44 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 04:08:08:46 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 04:08:08:51 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 04:08:08:54 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 04:10:10:08 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 04:10:10:09 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 04:10:10:09 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 04:10:10:11 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 04:10:10:19 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 04:10:10:21 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 04:12:12:18 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 04:12:12:18 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 04:12:12:18 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 04:12:12:20 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 04:12:12:26 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 04:12:12:29 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 04:15:15:02 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 04:15:15:03 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 04:15:15:03 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 04:15:15:05 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 04:15:15:12 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 04:15:15:15 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 04:17:17:17 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 04:17:17:17 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 04:17:17:17 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 04:17:17:19 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 04:17:17:26 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 04:17:17:29 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 04:18:18:01 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 04:18:18:01 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 04:18:18:01 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 04:18:18:03 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 04:18:18:10 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 04:18:18:14 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 04:18:18:45 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 04:18:18:45 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 04:18:18:45 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 04:18:18:47 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 04:18:18:52 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 04:18:18:55 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 05:53:53:44 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 05:53:53:44 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 05:53:53:44 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 05:53:53:46 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 05:53:53:54 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 05:53:53:57 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 05:54:54:42 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 05:54:54:42 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 05:54:54:42 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 05:54:54:44 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 05:54:54:50 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 05:54:54:53 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 05:55:55:18 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 05:55:55:18 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 05:55:55:18 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 05:55:55:21 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 05:55:55:27 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 05:55:55:30 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:02:02:43 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:02:02:44 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:02:02:44 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:02:02:46 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:02:02:58 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:03:03:01 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:04:04:00 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:04:04:01 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:04:04:01 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:04:04:03 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:04:04:08 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:04:04:11 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:04:04:59 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:04:04:59 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:04:04:59 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:05:05:01 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:05:05:07 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:05:05:10 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:05:05:48 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:05:05:49 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:05:05:49 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:05:05:51 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:05:05:58 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:06:06:01 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:08:08:10 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:08:08:10 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:08:08:10 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:08:08:12 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:08:08:18 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:08:08:21 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:09:09:42 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:09:09:42 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:09:09:42 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:09:09:44 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:09:09:50 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:09:09:53 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:10:10:24 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:10:10:24 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:10:10:24 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:10:10:26 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:10:10:33 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:10:10:36 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:12:12:06 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:12:12:06 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:12:12:06 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:12:12:09 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:12:12:16 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:12:12:19 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:13:13:21 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:13:13:21 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:13:13:21 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:13:13:24 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:13:13:33 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:13:13:37 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:15:15:01 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:15:15:02 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:15:15:02 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:15:15:04 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:15:15:09 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:15:15:13 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:16:16:18 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:16:16:18 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:16:16:18 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:16:16:20 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:16:16:27 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:16:16:30 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:17:17:10 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:17:17:10 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:17:17:10 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:17:17:13 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:17:17:20 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:17:17:23 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:19:19:09 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:19:19:15 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:19:19:15 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:19:19:17 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:19:19:24 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:19:19:27 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:22:22:34 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:22:22:34 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:22:22:34 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:22:22:36 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:22:22:42 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:22:22:46 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:23:23:14 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:23:23:15 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:23:23:15 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:23:23:17 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:23:23:24 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:23:23:27 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:25:25:12 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:25:25:12 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:25:25:12 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:25:25:14 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:25:25:23 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:25:25:26 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 07:24:24:24 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 07:24:24:24 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 07:24:24:24 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 07:24:24:26 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 07:24:24:38 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 07:24:24:42 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 07:26:26:23 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 07:26:26:23 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 07:26:26:23 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 07:26:26:25 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 07:26:26:32 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 07:26:26:33 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 07:26:26:48 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 07:26:26:48 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 07:26:26:48 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 07:26:26:50 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 07:26:26:58 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 07:27:27:01 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 07:27:27:34 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 07:27:27:34 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 07:27:27:34 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 07:27:27:36 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 07:27:27:43 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 07:27:27:46 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 07:29:29:17 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 07:29:29:17 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 07:29:29:17 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 07:29:29:19 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 07:29:29:26 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 07:29:29:29 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 07:33:33:34 PM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 07:33:33:35 PM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 07:33:33:35 PM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 07:33:33:37 PM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 07:33:33:43 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 07:33:33:46 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 07:36:36:41 PM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 07:36:36:41 PM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 07:36:36:41 PM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 07:36:36:43 PM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 07:36:36:49 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 07:36:36:52 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 07:36:36:57 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 07:39:39:15 PM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 07:39:39:15 PM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 07:39:39:15 PM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 07:39:39:18 PM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 07:39:39:25 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 07:39:39:28 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 07:39:39:33 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 07:41:41:18 PM: INFO: ****TC#2_NDEP: URL launched successfully.--
+11/Nov/23 07:41:41:18 PM: INFO: ****TC#2_NDEP: username entered-
+11/Nov/23 07:41:41:18 PM: INFO: ****TC#2_NDEP: Password entered--
+11/Nov/23 07:41:41:20 PM: INFO: ****TC#2_NDEP: Login button clicked.--
+11/Nov/23 07:41:41:27 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 07:41:41:31 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 07:41:41:38 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 07:45:45:01 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 07:45:45:01 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 07:45:45:01 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 07:45:45:03 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 07:45:45:10 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 07:45:45:14 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 07:45:45:34 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 07:45:45:35 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 07:45:45:35 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 07:45:45:37 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 07:45:45:43 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 07:45:45:47 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 07:47:47:23 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 07:47:47:24 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 07:47:47:24 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 07:47:47:26 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 07:47:47:32 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 07:47:47:34 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 07:47:47:43 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023CF561AD90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/082619270ba0d7b32069a1df3803283e
+11/Nov/23 07:47:47:47 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023CF6281B50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/082619270ba0d7b32069a1df3803283e
+11/Nov/23 07:47:47:51 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023CF6281B20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/082619270ba0d7b32069a1df3803283e
+11/Nov/23 07:48:48:14 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 07:48:48:14 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 07:48:48:14 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 07:48:48:16 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 07:48:48:22 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 07:48:48:27 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 12:58:58:39 PM: INFO: --TC#6 (test_VA_interaction_timeout_Inactivity_30 MinutesDefault) Started--
+11/Nov/23 12:58:58:39 PM: INFO: --TC#5 (test_continuously_more_than_30_minutes _VA_Only) Started--
+11/Nov/23 12:58:58:39 PM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+11/Nov/23 12:58:58:50 PM: INFO: --TC#3 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:58:58:50 PM: INFO: --TC#5 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 12:59:59:47 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 12:59:59:53 PM: INFO: --TC#2 -Chaticon verified and clicked--
+11/Nov/23 01:00:00:42 PM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+11/Nov/23 01:01:01:26 PM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+11/Nov/23 01:03:03:59 PM: INFO: --TC#5 (test_continuously_more_than_30_minutes _VA_Only) Started--
+11/Nov/23 01:03:03:59 PM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+11/Nov/23 01:03:03:59 PM: INFO: --TC#6 (test_VA_interaction_timeout_Inactivity_30 MinutesDefault) Started--
+11/Nov/23 01:04:04:33 PM: INFO: --TC#1 (test_Sessions_getting_logged_or_Not) Started--
+11/Nov/23 01:05:05:20 PM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+11/Nov/23 01:05:05:20 PM: INFO: --TC#6 (test_VA_interaction_timeout_Inactivity_30 MinutesDefault) Started--
+11/Nov/23 01:05:05:21 PM: INFO: --TC#5 (test_continuously_more_than_30_minutes _VA_Only) Started--
+11/Nov/23 01:08:08:51 PM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+11/Nov/23 01:08:08:51 PM: INFO: --TC#6 (test_VA_interaction_timeout_Inactivity_30 MinutesDefault) Started--
+11/Nov/23 01:08:08:51 PM: INFO: --TC#5 (test_continuously_more_than_30_minutes _VA_Only) Started--
+11/Nov/23 01:10:10:11 PM: INFO: --TC#5 (test_continuously_more_than_30_minutes _VA_Only) Started--
+11/Nov/23 01:10:10:11 PM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+11/Nov/23 01:10:10:11 PM: INFO: --TC#6 (test_VA_interaction_timeout_Inactivity_30 MinutesDefault) Started--
+11/Nov/23 01:10:10:21 PM: INFO: --TC#3 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:10:10:21 PM: INFO: --TC#6 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:10:10:21 PM: INFO: --TC#5 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+11/Nov/23 01:15:15:14 PM: INFO: --TC#6 (test_VA_interaction_timeout_Inactivity_30 MinutesDefault) Started--
+11/Nov/23 01:15:15:15 PM: INFO: --TC#5 (test_continuously_more_than_30_minutes _VA_Only) Started--
+11/Nov/23 01:15:15:15 PM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+11/Nov/23 03:03:03:06 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 03:03:03:06 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 03:03:03:06 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 03:03:03:09 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 03:03:03:16 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 03:03:03:22 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 03:03:03:47 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 03:03:03:47 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 03:03:03:47 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 03:03:03:49 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 03:03:03:56 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 03:03:03:59 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 03:04:04:01 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 03:04:04:08 PM: INFO: ****TC#1_NDEP: Entered the engagement ID.--
+11/Nov/23 03:04:04:11 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed button.--
+11/Nov/23 03:04:04:37 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 03:04:04:37 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 03:04:04:37 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 03:04:04:39 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 03:04:04:46 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 03:04:04:49 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 03:04:04:52 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 06:17:17:27 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:17:17:27 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:17:17:27 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:17:17:29 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:17:17:33 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:17:17:35 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:21:21:24 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:21:21:24 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:21:21:24 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:21:21:26 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:21:21:30 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:21:21:32 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 06:22:22:24 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 06:22:22:25 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 06:22:22:25 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 06:22:22:27 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 06:22:22:30 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 06:22:22:31 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 11:37:37:08 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 11:37:37:08 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 11:37:37:08 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 11:37:37:10 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 11:37:37:52 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 11:37:37:53 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 11:37:37:53 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 11:37:37:55 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 11:38:38:04 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:38:38:07 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 11:38:38:10 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 11:38:38:21 PM: INFO: ****TC#1_NDEP: Entered the engagement ID.--
+11/Nov/23 11:38:38:23 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed button.--
+11/Nov/23 11:38:38:25 PM: INFO: ****TC#1_NDEP: clicked to search summary.--
+11/Nov/23 11:38:38:25 PM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+11/Nov/23 11:38:38:27 PM: INFO: ****TC#1_NDEP: Entire Completed successfully.--
+11/Nov/23 11:38:38:29 PM: INFO: ****TC#1_NDEP: Testcase ended.--
+11/Nov/23 11:39:39:36 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 11:39:39:37 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 11:39:39:37 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 11:39:39:39 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 11:39:39:47 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:39:39:50 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 11:39:39:53 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 11:40:40:07 PM: INFO: ****TC#1_NDEP: Entered the engagement ID.--
+11/Nov/23 11:40:40:09 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed button.--
+11/Nov/23 11:40:40:11 PM: INFO: ****TC#1_NDEP: clicked to search summary.--
+11/Nov/23 11:40:40:11 PM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+11/Nov/23 11:40:40:13 PM: INFO: ****TC#1_NDEP: Entire Completed successfully.--
+11/Nov/23 11:40:40:15 PM: INFO: ****TC#1_NDEP: Testcase ended.--
+11/Nov/23 11:40:40:47 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 11:40:40:47 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 11:40:40:48 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 11:40:40:50 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 11:40:40:53 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:40:40:55 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+11/Nov/23 11:48:48:10 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 11:48:48:10 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 11:48:48:10 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 11:48:48:13 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 11:48:48:18 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:48:48:20 PM: INFO: Login Failed
+11/Nov/23 11:49:49:54 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 11:49:49:54 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 11:49:49:54 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 11:49:49:56 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 11:50:50:01 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:50:50:02 PM: INFO: Login Failed
+11/Nov/23 11:54:54:02 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 11:54:54:21 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 11:54:54:21 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 11:54:54:21 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 11:54:54:24 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 11:54:54:28 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:54:54:30 PM: INFO: Login Failed
+11/Nov/23 11:57:57:10 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 11:57:57:10 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 11:57:57:10 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 11:57:57:12 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 11:57:57:17 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:57:57:18 PM: INFO: Login Failed
+11/Nov/23 11:58:58:13 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 11:58:58:13 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 11:58:58:13 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 11:58:58:15 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 11:58:58:21 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 11:59:59:11 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 11:59:59:12 PM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 11:59:59:12 PM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 11:59:59:14 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 11:59:59:18 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:00:00:30 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:00:00:30 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:00:00:30 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:00:00:33 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:00:00:36 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:00:00:38 AM: INFO: Login Failed
+11/Nov/23 12:00:00:57 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:00:00:57 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:00:00:57 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:01:01:00 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:01:01:06 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:03:03:39 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:03:03:39 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:03:03:39 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:03:03:41 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:03:03:48 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:07:07:55 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:07:07:55 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:07:07:55 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:07:07:57 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:08:08:01 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:08:08:03 AM: INFO: Login Failed
+11/Nov/23 12:08:08:24 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:08:08:25 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:08:08:25 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:08:08:27 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:08:08:34 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:09:09:59 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:10:10:00 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:10:10:00 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:10:10:02 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:10:10:07 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:10:10:29 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:10:10:30 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:10:10:30 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:10:10:32 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:10:10:39 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:13:13:02 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:13:13:02 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:13:13:02 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:13:13:04 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:13:13:08 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:13:13:24 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:13:13:25 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:13:13:25 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:13:13:27 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:13:13:33 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:14:14:39 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:14:14:40 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:14:14:40 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:14:14:42 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:14:14:46 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:18:18:58 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:18:18:58 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:18:18:58 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:19:19:00 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:19:19:04 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:19:19:07 AM: INFO: Login Failed
+11/Nov/23 12:19:19:27 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:19:19:27 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:19:19:27 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:19:19:29 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:19:19:40 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:24:24:23 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:24:24:23 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:24:24:23 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:24:24:25 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:24:24:29 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:25:25:19 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:25:25:19 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:25:25:19 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:25:25:21 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:25:25:25 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:26:26:42 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:26:26:42 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:26:26:42 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:26:26:44 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:26:26:48 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:27:27:11 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:27:27:11 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:27:27:11 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:27:27:13 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:27:27:19 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:31:31:57 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:31:31:57 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:31:31:57 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:31:31:59 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:34:34:13 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+11/Nov/23 12:34:34:13 AM: INFO: ****TC#1_NDEP: username entered-
+11/Nov/23 12:34:34:13 AM: INFO: ****TC#1_NDEP: Password entered--
+11/Nov/23 12:34:34:15 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+11/Nov/23 12:34:34:22 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+11/Nov/23 12:34:34:29 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+11/Nov/23 12:34:34:40 AM: INFO: ****TC#1_NDEP: Entered the engagement ID.--
+12/Dec/23 07:45:45:36 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 07:45:45:36 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 07:45:45:36 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 07:45:45:38 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 07:46:46:25 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 07:46:46:28 PM: INFO: Login Failed
+12/Dec/23 07:46:46:48 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 07:46:46:48 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 07:46:46:48 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 07:46:46:50 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 07:46:46:57 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 01:59:59:02 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+12/Dec/23 01:59:59:02 AM: INFO: ****TC#2_NDEP: username entered-
+12/Dec/23 01:59:59:03 AM: INFO: ****TC#2_NDEP: Password entered--
+12/Dec/23 01:59:59:05 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+12/Dec/23 01:59:59:11 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 01:59:59:14 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+12/Dec/23 01:59:59:20 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 02:00:00:34 AM: INFO: ****TC#2_NDEP: URL launched successfully.--
+12/Dec/23 02:00:00:34 AM: INFO: ****TC#2_NDEP: username entered-
+12/Dec/23 02:00:00:34 AM: INFO: ****TC#2_NDEP: Password entered--
+12/Dec/23 02:00:00:36 AM: INFO: ****TC#2_NDEP: Login button clicked.--
+12/Dec/23 02:00:00:44 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:00:00:47 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+12/Dec/23 02:00:00:53 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 02:13:13:35 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:13:13:35 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:13:13:35 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:13:13:37 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:13:13:42 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:13:13:45 AM: INFO: Login Failed
+12/Dec/23 02:14:14:46 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:15:15:24 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:15:15:24 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:15:15:24 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:15:15:26 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:15:15:35 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:18:18:53 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:18:18:53 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:18:18:53 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:18:18:55 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:19:19:06 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:19:19:09 AM: INFO: Login Failed
+12/Dec/23 02:19:19:39 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:19:19:39 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:19:19:39 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:19:19:41 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:19:19:49 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:21:21:38 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:21:21:38 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:21:21:38 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:21:21:41 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:21:21:48 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:24:24:18 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:24:24:43 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:24:24:43 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:24:24:43 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:24:24:45 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:24:24:55 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:25:25:33 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:26:26:37 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:26:26:38 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:26:26:38 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:26:26:40 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:26:26:49 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:29:29:03 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:29:29:04 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:29:29:04 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:29:29:06 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:29:29:15 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:30:30:04 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:30:30:45 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:31:31:29 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:31:31:30 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:31:31:30 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:31:31:32 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:31:31:38 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:33:33:01 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:33:33:32 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:33:33:32 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:33:33:32 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:33:33:34 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:33:33:40 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:35:35:27 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:37:37:14 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:37:37:14 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:37:37:14 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:37:37:16 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:37:37:26 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:37:37:50 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 02:37:37:58 AM: INFO: ****TC#1_NDEP: Entered the engagement ID.--
+12/Dec/23 02:38:38:00 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed button.--
+12/Dec/23 02:44:44:48 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:44:44:49 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:44:44:49 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:44:44:51 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:44:44:57 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:45:45:00 AM: INFO: Login Failed
+12/Dec/23 02:49:49:03 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:49:49:03 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:49:49:03 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:49:49:06 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:49:49:49 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:49:49:52 AM: INFO: Login Failed
+12/Dec/23 02:51:51:28 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:51:51:29 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:51:51:29 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:51:51:31 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:51:51:35 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:51:51:38 AM: INFO: Login Failed
+12/Dec/23 02:53:53:06 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:53:53:07 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:53:53:07 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:53:53:09 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:53:53:15 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:53:53:18 AM: INFO: Login Failed
+12/Dec/23 02:53:53:59 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:53:53:59 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:53:53:59 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:54:54:02 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:54:54:08 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:54:54:23 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 02:54:54:31 AM: INFO: ****TC#1_NDEP: Entered the engagement ID.--
+12/Dec/23 02:54:54:33 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed button.--
+12/Dec/23 02:56:56:32 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:56:56:33 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:56:56:33 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:56:56:35 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:56:56:45 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:56:56:48 AM: INFO: Login Failed
+12/Dec/23 02:57:57:17 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:57:57:18 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:57:57:18 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:57:57:20 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:57:57:27 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:57:57:39 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 02:57:57:46 AM: INFO: ****TC#1_NDEP: Entered the engagement ID.--
+12/Dec/23 02:57:57:48 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed button.--
+12/Dec/23 01:06:06:53 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 01:06:06:53 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 01:06:06:54 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 01:06:06:56 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 01:07:07:13 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 01:07:07:16 PM: INFO: Login Failed
+12/Dec/23 01:11:11:32 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 01:11:11:32 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 01:11:11:33 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 01:11:11:35 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 01:11:11:40 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 01:11:11:43 PM: INFO: Login Failed
+12/Dec/23 01:12:12:26 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 01:12:12:27 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 01:12:12:27 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 01:12:12:29 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 01:12:12:37 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 01:12:12:46 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 01:12:12:58 PM: INFO: ****TC#1_NDEP: Entered the engagement ID.--
+12/Dec/23 01:13:13:00 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed button.--
+12/Dec/23 01:20:20:47 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 01:20:20:47 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 01:20:20:48 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 01:20:20:50 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 01:21:21:05 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 01:21:21:56 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 01:21:21:57 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 01:21:21:57 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 01:21:21:59 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 01:22:22:08 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 01:22:22:23 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 01:22:22:32 PM: INFO: ****TC#1_NDEP: Entered the engagement ID.--
+12/Dec/23 01:22:22:35 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed button.--
+12/Dec/23 01:22:22:42 PM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 01:22:22:44 PM: INFO: ****TC#1_NDEP: Entire Completed successfully.--
+12/Dec/23 01:22:22:46 PM: INFO: ****TC#1_NDEP: Testcase ended.--
+12/Dec/23 01:22:22:46 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+12/Dec/23 01:30:30:14 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 01:30:30:14 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 01:30:30:14 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 01:30:30:16 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 01:30:30:25 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 01:30:30:57 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 01:31:31:43 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 01:31:31:43 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 01:31:31:44 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 01:31:31:46 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 01:31:31:53 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 01:32:32:09 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 01:33:33:30 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 01:33:33:30 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 01:33:33:31 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 01:33:33:33 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 01:33:33:40 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 01:35:35:11 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 01:35:35:11 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 01:35:35:12 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 01:35:35:14 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 01:35:35:45 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 01:36:36:54 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 01:36:36:55 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 01:36:36:55 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 01:36:36:57 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 01:37:37:05 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 01:38:38:47 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 01:38:38:47 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 01:38:38:47 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 01:38:38:50 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 01:40:40:49 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 01:43:43:49 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 01:43:43:49 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 01:43:43:49 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 01:43:43:52 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 01:43:43:59 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 01:44:44:19 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 01:46:46:51 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 01:47:47:30 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 01:47:47:30 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 01:47:47:32 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 01:47:47:41 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 01:49:49:09 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 01:49:49:10 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 01:49:49:10 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 01:49:49:12 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 01:49:49:21 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 01:49:49:43 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 01:56:56:48 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 01:56:56:48 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 01:56:56:48 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 01:56:56:51 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 01:57:57:01 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 01:57:57:25 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 02:08:08:27 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:08:08:28 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:08:08:28 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:08:08:30 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:08:08:41 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:09:09:02 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 02:10:10:46 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:10:10:46 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:10:10:46 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:10:10:49 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:11:11:05 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:11:11:30 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 02:12:12:00 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:12:12:42 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:12:12:42 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:12:12:42 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:12:12:44 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:12:12:55 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:13:13:20 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 02:15:15:21 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:15:15:21 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:15:15:21 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:15:15:24 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:15:15:31 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:17:17:12 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:17:17:12 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:17:17:12 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:17:17:14 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:17:17:35 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:25:25:36 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:27:27:25 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:27:27:26 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:27:27:26 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:27:27:28 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:27:27:37 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:28:28:49 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:51:51:39 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:51:51:39 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:51:51:39 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:51:51:41 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:51:51:48 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:52:52:09 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 02:53:53:40 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:53:53:40 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:53:53:40 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:53:53:42 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:53:53:49 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 02:54:54:14 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 02:58:58:27 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 02:58:58:27 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 02:58:58:27 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 02:58:58:30 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 02:58:58:47 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 03:33:33:38 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 03:33:33:38 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 03:33:33:38 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 03:33:33:41 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 03:33:33:48 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 03:34:34:08 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 03:37:37:42 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 03:37:37:42 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 03:37:37:42 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 03:37:37:44 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 03:37:37:50 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 03:38:38:00 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 03:39:39:03 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 03:39:39:03 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 03:39:39:03 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 03:39:39:05 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 03:39:39:12 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 03:39:39:37 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 03:43:43:12 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 03:43:43:13 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 03:43:43:13 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 03:43:43:15 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 03:43:43:21 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 03:44:44:11 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 03:44:44:11 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 03:44:44:11 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 03:44:44:13 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 03:44:44:21 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 03:44:44:43 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 03:50:50:57 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 03:50:50:58 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 03:50:50:58 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 03:51:51:00 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 03:51:51:05 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 03:51:51:07 PM: INFO: Login Failed
+12/Dec/23 03:53:53:27 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 03:53:53:27 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 03:53:53:28 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 03:53:53:30 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 03:53:53:35 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 03:53:53:38 PM: INFO: Login Failed
+12/Dec/23 03:53:53:57 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 03:53:53:58 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 03:53:53:58 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 03:54:54:00 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 03:54:54:07 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 03:54:54:20 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 03:56:56:03 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 03:56:56:04 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 03:56:56:04 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 03:56:56:06 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 03:56:56:13 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 03:56:56:24 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 03:57:57:36 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 03:57:57:37 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 03:57:57:37 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 03:57:57:39 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 03:57:57:46 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 03:57:57:56 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 03:59:59:44 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 03:59:59:55 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 03:59:59:55 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 03:59:59:57 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 04:00:00:05 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 04:00:00:18 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 04:01:01:22 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 04:01:01:22 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 04:01:01:22 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 04:01:01:24 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 04:01:01:35 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 04:01:01:45 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 04:02:02:16 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 04:02:02:16 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 04:02:02:16 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 04:02:02:18 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 04:02:02:25 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 04:02:02:34 PM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 04:02:02:41 PM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 04:02:02:43 PM: INFO: ****TC#1_NDEP: Entire Completed successfully.--
+12/Dec/23 04:02:02:45 PM: INFO: ****TC#1_NDEP: Testcase ended.--
+12/Dec/23 04:02:02:45 PM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+12/Dec/23 04:03:03:06 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 04:03:03:06 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 04:03:03:06 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 04:03:03:09 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 04:03:03:13 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 04:03:03:16 PM: INFO: Login Failed
+12/Dec/23 04:05:05:03 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 04:05:05:03 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 04:05:05:03 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 04:05:05:05 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 04:09:09:19 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 04:09:09:22 PM: INFO: Login Failed
+12/Dec/23 04:10:10:03 PM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 04:10:10:03 PM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 04:10:10:03 PM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 04:10:10:05 PM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 04:10:10:09 PM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 04:10:10:11 PM: INFO: Login Failed
+12/Dec/23 10:10:10:21 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 10:10:10:21 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 10:10:10:21 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 10:10:10:23 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 10:10:10:28 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 10:10:10:31 AM: INFO: Login Failed
+12/Dec/23 10:11:11:20 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 10:11:11:20 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 10:11:11:20 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 10:11:11:23 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 10:11:11:30 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 10:11:11:37 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 10:11:11:44 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 10:11:11:46 AM: INFO: ****TC#1_NDEP: Entire Completed successfully.--
+12/Dec/23 10:11:11:48 AM: INFO: ****TC#1_NDEP: Testcase ended.--
+12/Dec/23 10:11:11:48 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+12/Dec/23 10:12:12:18 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 10:12:12:18 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 10:12:12:19 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 10:12:12:21 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 10:12:12:28 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 10:12:12:36 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 10:18:18:38 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 10:18:18:38 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 10:18:18:38 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 10:18:18:40 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 10:18:18:48 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 10:18:18:55 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 10:20:20:31 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 10:20:20:32 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 10:20:20:32 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 10:20:20:34 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 10:20:20:40 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 10:20:20:43 AM: INFO: Login Failed
+12/Dec/23 10:21:21:01 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 10:21:21:01 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 10:21:21:01 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 10:21:21:03 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 10:21:21:14 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 10:21:21:22 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 10:25:25:04 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 10:25:25:04 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 10:25:25:05 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 10:25:25:07 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 10:25:25:13 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 10:25:25:20 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 10:27:27:07 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 10:27:27:08 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 10:27:27:08 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 10:27:27:10 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 10:27:27:18 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 10:27:27:26 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 10:32:32:30 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 10:32:32:30 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 10:32:32:30 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 10:32:32:32 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 10:32:32:39 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 10:32:32:46 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 10:32:32:54 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 10:37:37:42 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 10:37:37:42 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 10:37:37:42 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 10:37:37:44 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 10:37:37:50 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 10:37:37:58 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 10:38:38:06 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 10:38:38:06 AM: INFO: ****TC#1_NDEP: Entire Completed successfully.--
+12/Dec/23 10:38:38:06 AM: INFO: ****TC#1_NDEP: Testcase ended.--
+12/Dec/23 10:38:38:06 AM: INFO: ****TC#1_NDEP: Login NDEP completed.--
+12/Dec/23 10:41:41:29 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 10:41:41:29 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 10:41:41:29 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 10:41:41:31 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 10:41:41:37 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 10:41:41:45 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 10:41:41:53 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 10:45:45:12 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 10:45:45:12 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 10:45:45:12 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 10:45:45:15 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 10:45:45:26 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 10:45:45:34 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 10:45:45:42 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 10:55:55:44 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 10:55:55:44 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 10:55:55:44 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 10:55:55:46 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 10:55:55:53 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 10:56:56:01 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 11:01:01:09 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 11:01:01:09 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 11:01:01:09 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 11:01:01:11 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 11:01:01:19 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 11:01:01:34 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 11:01:01:42 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 11:01:01:48 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 11:03:03:20 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 11:03:03:21 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 11:03:03:21 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 11:03:03:23 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 11:03:03:29 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 11:03:03:36 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 11:03:03:45 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 11:03:03:50 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 11:23:23:26 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 11:23:23:26 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 11:23:23:26 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 11:23:23:28 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 11:23:23:35 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 11:23:23:38 AM: INFO: Login Failed
+12/Dec/23 11:25:25:43 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 11:25:25:43 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 11:25:25:43 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 11:25:25:45 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 11:25:25:51 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 11:25:25:59 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 11:27:27:39 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 11:27:27:40 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 11:27:27:40 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 11:27:27:42 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 11:27:27:49 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 11:27:27:58 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 11:28:28:06 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 11:28:28:12 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 11:39:39:19 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 11:39:39:20 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 11:39:39:20 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 11:39:39:22 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 11:39:39:29 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 11:39:39:38 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 11:39:39:47 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 11:39:39:52 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 11:40:40:01 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 11:40:40:40 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 11:40:40:41 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 11:40:40:41 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 11:40:40:43 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 11:40:40:49 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 11:40:40:57 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 11:45:45:50 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 11:46:46:15 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 11:46:46:15 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 11:46:46:15 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 11:46:46:17 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 11:46:46:24 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 11:46:46:31 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 11:46:46:42 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 11:46:46:47 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 11:46:46:54 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 11:50:50:59 AM: INFO: ****TC#1_NDEP: URL launched successfully.--
+12/Dec/23 11:51:51:00 AM: INFO: ****TC#1_NDEP: username entered-
+12/Dec/23 11:51:51:00 AM: INFO: ****TC#1_NDEP: Password entered--
+12/Dec/23 11:51:51:02 AM: INFO: ****TC#1_NDEP: Login button clicked.--
+12/Dec/23 11:51:51:08 AM: INFO: ****TC#1_NDEP: Took authentication code from user.--
+12/Dec/23 11:51:51:15 AM: INFO: ****TC#1_NDEP: clicked to search engagement detailed option.--
+12/Dec/23 11:51:51:24 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 11:51:51:29 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 11:51:51:36 AM: INFO: ****TC#1_NDEP: Chat summary window screenshot has been saved..--
+12/Dec/23 09:50:50:21 AM: INFO: --TC#1 (test_Sessions_getting_logged_or_Not) Started--
+12/Dec/23 09:50:50:30 AM: INFO: --TC#1 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+12/Dec/23 09:50:50:41 AM: INFO: --TC#1 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+12/Dec/23 09:51:51:09 AM: INFO: --TC#1 -Able to close chat successfully.--
+12/Dec/23 09:51:51:09 AM: INFO: --TC#1 - Test cases ended successfully--
+12/Dec/23 09:51:51:22 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+12/Dec/23 09:51:51:28 AM: INFO: --TC#2 -Chaticon verified and clicked--
+12/Dec/23 09:51:51:41 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+12/Dec/23 09:51:51:47 AM: INFO: --TC#2 -Chaticon verified and clicked--
+12/Dec/23 09:51:51:49 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+12/Dec/23 09:52:52:01 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+12/Dec/23 09:52:52:02 AM: INFO: --TC#2 - Test cases ended successfully--
+12/Dec/23 09:52:52:18 AM: INFO: --TC#4 (test_Email_Transcription) Started--
+12/Dec/23 09:52:52:26 AM: INFO: --TC#4 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+12/Dec/23 09:52:52:36 AM: INFO: --TC#4 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+12/Dec/23 09:52:52:51 AM: INFO: --TC#4 -Email transcription test case completed--
+12/Dec/23 09:52:52:51 AM: INFO: --TC#4 - Test cases ended successfully--
+12/Dec/23 09:53:53:55 AM: INFO: --TC#4 (test_Email_Transcription) Started--
+12/Dec/23 09:54:54:03 AM: INFO: --TC#4 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+12/Dec/23 09:54:54:10 AM: INFO: --TC#2 (test_End_the_session_from_user_side) Started--
+12/Dec/23 09:54:54:16 AM: INFO: --TC#2 -Chaticon verified and clicked--
+12/Dec/23 09:54:54:23 AM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+12/Dec/23 09:54:54:30 AM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+12/Dec/23 09:54:54:33 AM: INFO: --TC#1 (test_Sessions_getting_logged_or_Not) Started--
+12/Dec/23 09:54:54:39 AM: INFO: --TC#3 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+12/Dec/23 09:54:54:46 AM: INFO: --TC#6 (test_VA_interaction_timeout_Inactivity_30 MinutesDefault) Started--
+12/Dec/23 09:54:54:55 AM: INFO: --TC#5 (test_continuously_more_than_30_minutes _VA_Only) Started--
+12/Dec/23 09:55:55:47 AM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+12/Dec/23 09:55:55:55 AM: INFO: --TC#3 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+12/Dec/23 09:56:56:05 AM: INFO: --TC#3 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+12/Dec/23 09:56:56:07 AM: INFO: --TC#3 -28 min inactivity started.--
+12/Dec/23 09:58:58:22 AM: INFO: --TC#5 (test_continuously_more_than_30_minutes _VA_Only) Started--
+12/Dec/23 09:58:58:30 AM: INFO: --TC#5 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+12/Dec/23 09:58:58:38 AM: INFO: --TC#5 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+12/Dec/23 09:58:58:38 AM: INFO: --TC#5 -interval of each 2 min started.--
+12/Dec/23 10:24:24:07 AM: INFO: --TC#3 -28 min inactivity completed.--
+12/Dec/23 10:24:24:15 AM: INFO: --TC#3 -input entered successfully after inactivity of 28 min no issue found.--
+12/Dec/23 10:24:24:19 AM: INFO: --TC#3 -Clicked humburger menu successfully.--
+12/Dec/23 10:24:24:21 AM: INFO: --TC#3 -Selected the email option successfully.--
+12/Dec/23 10:24:24:23 AM: INFO: --TC#3 -Entered email address successfully.--
+12/Dec/23 10:24:24:25 AM: INFO: --TC#3 -Email sent successfully.--
+12/Dec/23 10:24:24:25 AM: INFO: --TC#3 -28 min inactivity completed with Email chat conversation successfully.--
+12/Dec/23 10:24:24:25 AM: INFO: --TC#3 - Test cases ended successfully--
+12/Dec/23 10:32:32:43 AM: INFO: --TC#5 -36 min over.--
+12/Dec/23 10:32:32:45 AM: INFO: --TC#5 -37 min over.--
+12/Dec/23 10:32:32:45 AM: INFO: --TC#5 -able to continue chat for more than 30 min successfully--
+12/Dec/23 10:32:32:45 AM: INFO: --TC#5 -Email transcription test case completed--
+12/Dec/23 10:32:32:46 AM: INFO: --TC#5 - Test cases ended successfully--
+12/Dec/23 01:14:14:11 PM: INFO: --TC#6 (test_VA_interaction_timeout_Inactivity_30 MinutesDefault) Started--
+12/Dec/23 01:14:14:23 PM: INFO: --TC#6 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+12/Dec/23 01:14:14:30 PM: INFO: --TC#6 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+12/Dec/23 01:14:14:34 PM: INFO: --TC#6 -Inactivity of 29 min started.--
+12/Dec/23 01:44:44:35 PM: INFO: --TC#6 -Inactivity at 30 min.--
+12/Dec/23 01:45:45:35 PM: INFO: --TC#6 -Inactivity at 31 min.--
+12/Dec/23 01:47:47:35 PM: INFO: --TC#6 -Inactivity at 33 min.--
+12/Dec/23 05:11:11:23 PM: INFO: --TC#6 (test_VA_interaction_timeout_Inactivity_30 MinutesDefault) Started--
+12/Dec/23 05:12:12:06 PM: INFO: --TC#6 (test_VA_interaction_timeout_Inactivity_30 MinutesDefault) Started--
+12/Dec/23 05:12:12:23 PM: INFO: --TC#6 (test_VA_interaction_timeout_Inactivity_30 MinutesDefault) Started--
+12/Dec/23 05:12:12:31 PM: INFO: --TC#6 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+12/Dec/23 05:12:12:39 PM: INFO: --TC#6 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+12/Dec/23 05:12:12:43 PM: INFO: --TC#6 -Inactivity of 29 min started.--
+12/Dec/23 01:03:03:55 PM: INFO: --TC#6 (test_VA_interaction_timeout_Inactivity_30 MinutesDefault) Started--
+12/Dec/23 01:04:04:07 PM: INFO: --TC#6 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+12/Dec/23 01:04:04:15 PM: INFO: --TC#6 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+12/Dec/23 01:04:04:19 PM: INFO: --TC#6 -Inactivity of 29 min started.--
+12/Dec/23 01:34:34:20 PM: INFO: --TC#6 -Inactivity at 30 min.--
+12/Dec/23 01:35:35:20 PM: INFO: --TC#6 -Inactivity at 31 min.--
+12/Dec/23 01:37:37:21 PM: INFO: --TC#6 -Inactivity at 33 min.--
+12/Dec/23 01:07:07:33 AM: INFO: --TC#5 (test_continuously_more_than_30_minutes _VA_Only) Started--
+12/Dec/23 01:07:07:44 AM: INFO: --TC#5 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+12/Dec/23 01:07:07:52 AM: INFO: --TC#5 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+12/Dec/23 01:07:07:52 AM: INFO: --TC#5 -interval of each 2 min started.--
+12/Dec/23 01:42:42:00 AM: INFO: --TC#5 -36 min over.--
+12/Dec/23 01:42:42:03 AM: INFO: --TC#5 -37 min over.--
+12/Dec/23 01:42:42:03 AM: INFO: --TC#5 -able to continue chat for more than 30 min successfully--
+12/Dec/23 01:42:42:03 AM: INFO: --TC#5 -Email transcription test case completed--
+12/Dec/23 01:42:42:03 AM: INFO: --TC#5 - Test cases ended successfully--

@@ -1,0 +1,6 @@
+TC#1 = test_Sessions_getting_logged_or_Not
+TC#2 = test_End_the_session_from_user_side
+TC#3 = test_Inactivity_Timeout_28_Minutes
+TC#4 = test_Email_Transcription
+TC#5 = test_continuously_more_than_30_minutes _VA_Only
+TC#6 = test_VA_interaction_timeout_Inactivity_30 MinutesDefault
