@@ -25,7 +25,7 @@ def test_3(driver):
     driver.find_element(By.XPATH,locator.test_chaticon()).click()
     time.sleep(2)
     driver.switch_to.frame(driver.find_element(By.NAME, locator.test_frameswitch()))
-    a = driver.find_element(By.TAG_NAME,locator.test_chattextarea())
+    a = driver.find_element(By.XPATH,locator.test_chattextarea())
     b = driver.find_element(By.XPATH, locator.test_sendbutton())
     a.click()
     a.send_keys(locator.test_initialmsg())  # this will give us chat information which help to get translation id
@@ -46,7 +46,7 @@ def test_3(driver):
     time.sleep(2)
 
     # here we are taking screenshot of the chat-screen (iframe only) not the complete desktop window
-    element = driver.find_element(By.XPATH, locator.test_chatwindow())
+    element = driver.find_element(By.CLASS_NAME, locator.test_chatwindow())
     allure.attach(element.screenshot_as_png, name="test_Inactivity_Timeout_28_Minutes",
                   attachment_type=attachment_type.PNG)
     screenshot_path = "C://Users//anwarshaikh//PycharmProjects//PS_Billing_Automation//Screenshots//TC#3_Chatinfo.png"
@@ -72,7 +72,7 @@ def test_3(driver):
     logger.info("--TC#3 -28 min inactivity completed.--")
     b.click()
     time.sleep(5)
-    element = driver.find_element(By.XPATH, locator.test_chatwindow())
+    element = driver.find_element(By.CLASS_NAME, locator.test_chatwindow())
     allure.attach(element.screenshot_as_png, name="test_Inactivity_Timeout_28_Minutes@28 min",
                   attachment_type=attachment_type.PNG)
     screenshot_path = "C://Users//anwarshaikh//PycharmProjects//PS_Billing_Automation//Screenshots//TC#3_28min.png"
@@ -82,21 +82,16 @@ def test_3(driver):
     logger.info("--TC#3 -input entered successfully after inactivity of 28 min no issue found.--")
     b.click()
     time.sleep(2)
-    driver.find_element(By.XPATH, locator.test_humburger()).click()
-    time.sleep(2)
-    logger.info("--TC#3 -Clicked humburger menu successfully.--")
+    driver.switch_to.default_content()
+    driver.switch_to.frame(driver.find_element(By.ID, 'inqChatStage'))
     driver.find_element(By.XPATH, locator.test_email()).click()
     time.sleep(2)
-    logger.info("--TC#3 -Selected the email option successfully.--")
     driver.find_element(By.ID, locator.test_emailtextarea()).send_keys(locator.test_emailaddress())
     time.sleep(2)
-    logger.info("--TC#3 -Entered email address successfully.--")
     driver.find_element(By.XPATH, locator.test_emailsend()).click()
     time.sleep(2)
-    logger.info("--TC#3 -Email sent successfully.--")
-    driver.find_element(By.ID, locator.test_emailwindowclose()).click()
-    driver.switch_to.default_content()
     driver.find_element(By.XPATH, locator.test_closechat()).click()
+    driver.switch_to.default_content()
     logger.info("--TC#3 -28 min inactivity completed with Email chat conversation successfully.--")
-    driver.close()
     logger.info("--TC#3 - Test cases ended successfully--")
+    driver.close()
