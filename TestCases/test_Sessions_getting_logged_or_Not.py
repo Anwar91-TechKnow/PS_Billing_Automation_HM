@@ -22,6 +22,8 @@ def test_1(driver):
     logger.debug("--TC#1 -Launched the URL Successfully.--")
     driver.maximize_window()
     time.sleep(5)
+    driver.find_element(By.ID, 'onetrust-accept-btn-handler').click()
+    time.sleep(2)
     driver.find_element(By.XPATH, locator.test_chaticon()).click()
     time.sleep(2)
     driver.switch_to.frame(driver.find_element(By.NAME, locator.test_frameswitch()))
@@ -46,7 +48,7 @@ def test_1(driver):
     time.sleep(2)
 
     # here we are taking screenshot of the chat-screen (iframe only) not the complete desktop window
-    element = driver.find_element(By.CLASS_NAME, locator.test_chatwindow())
+    element = driver.find_element(By.XPATH, locator.test_chatwindow())
     allure.attach(element.screenshot_as_png, name="test_Sessions_getting_logged_or_Not",
                   attachment_type=attachment_type.PNG)
     screenshot_path = "C://Users//anwarshaikh//PycharmProjects//PS_Billing_Automation//Screenshots//TC#1_Chatinfo.png"
@@ -88,10 +90,8 @@ def test_1(driver):
     a.send_keys("Take care bye, Have a nice day!")
     b.click()
     time.sleep(3)
-    driver.switch_to.default_content()
-    time.sleep(2)
-    driver.switch_to.frame(driver.find_element(By.ID, 'inqChatStage'))
-    driver.find_element(By.XPATH, locator.test_closechat()).click()
+    driver.find_element(By.XPATH, locator.test_closechat2()).click()
+    driver.find_element(By.XPATH, locator.test_endchat2()).click()
     driver.switch_to.default_content()
     logger.info("--TC#1 -Able to close chat successfully.--")
     logger.info("--TC#1 - Test cases ended successfully--")

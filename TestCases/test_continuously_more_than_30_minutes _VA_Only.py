@@ -21,6 +21,8 @@ def test_5(driver):
     logger.debug("--TC#5 -Launched the URL Successfully.--")
     driver.maximize_window()
     time.sleep(5)
+    driver.find_element(By.ID, 'onetrust-accept-btn-handler').click()
+    time.sleep(2)
     driver.find_element(By.XPATH, locator.test_chaticon()).click()
     time.sleep(2)
     driver.switch_to.frame(driver.find_element(By.NAME, locator.test_frameswitch()))
@@ -45,7 +47,7 @@ def test_5(driver):
     time.sleep(2)
 
     # here we are taking screenshot of the chat-screen (iframe only) not the complete desktop window
-    element = driver.find_element(By.CLASS_NAME, locator.test_chatwindow())
+    element = driver.find_element(By.XPATH, locator.test_chatwindow())
     allure.attach(element.screenshot_as_png, name="test_continuously_more_than_30_minutes _VA_Only",
                   attachment_type=attachment_type.PNG)
     screenshot_path = "C://Users//anwarshaikh//PycharmProjects//PS_Billing_Automation//Screenshots//TC#5_Chatinfo.png"
@@ -130,7 +132,7 @@ def test_5(driver):
     b.click()
     time.sleep(2)  # 18
     logger.info("--TC#5 -36 min over.--")
-    element = driver.find_element(By.CLASS_NAME, locator.test_chatwindow())
+    element = driver.find_element(By.XPATH, locator.test_chatwindow())
     allure.attach(element.screenshot_as_png, name="test_continuously_more_than_30_minutes _VA_Only@36min",
                   attachment_type=attachment_type.PNG)
     screenshot_path = ("C://Users//anwarshaikh//PycharmProjects//PS_Billing_Automation//Screenshots//TC"
@@ -145,8 +147,8 @@ def test_5(driver):
     # if you require email chat transcripts just remove comments from below code.
     # remember to update xpath or other locators in respective field.
     # -------------------------------------------------
-    driver.switch_to.default_content()
-    driver.switch_to.frame(driver.find_element(By.ID, 'inqChatStage'))
+    driver.find_element(By.XPATH, locator.test_humburger()).click()
+    time.sleep(2)
     driver.find_element(By.XPATH, locator.test_email()).click()
     time.sleep(2)
     driver.find_element(By.ID, locator.test_emailtextarea()).send_keys(locator.test_emailaddress())
@@ -154,6 +156,7 @@ def test_5(driver):
     driver.find_element(By.XPATH, locator.test_emailsend()).click()
     time.sleep(2)
     driver.find_element(By.XPATH, locator.test_closechat()).click()
+    driver.find_element(By.XPATH, locator.test_endchat()).click()
     driver.switch_to.default_content()
     logger.info("--TC#5 -Email transcription test case completed--")
     logger.info("--TC#5 - Test cases ended successfully--")

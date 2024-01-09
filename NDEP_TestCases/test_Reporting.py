@@ -67,7 +67,7 @@ def test_reporting(driver):
         driver.find_element(By.LINK_TEXT, locator.test_reporting()).click()
         time.sleep(2)
         driver.switch_to.frame(locator.test_iframendep())
-        time.sleep(2)
+        time.sleep(4)
         driver.find_element(By.XPATH, locator.test_ActiveReports()).click()
         time.sleep(2)
         element_to_hover_over = driver.find_element(By.ID, locator.test_standradreport())

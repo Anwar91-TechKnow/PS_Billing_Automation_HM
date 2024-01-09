@@ -20,11 +20,12 @@ def test_6(driver):
     logger.debug("--TC#6 -Launched the URL Successfully.--")
     driver.maximize_window()
     time.sleep(5)
+    driver.find_element(By.ID, 'onetrust-accept-btn-handler').click()
+    time.sleep(2)
     driver.find_element(By.XPATH, locator.test_chaticon()).click()
     time.sleep(2)
     driver.switch_to.frame(driver.find_element(By.NAME, locator.test_frameswitch()))
-    a = driver.find_element(By.XPATH,
-                            locator.test_chattextarea())  # to simplify the code using the variable for respective actions.
+    a = driver.find_element(By.XPATH, locator.test_chattextarea())
     b = driver.find_element(By.XPATH, locator.test_sendbutton())
     a.click()
     a.send_keys(locator.test_initialmsg())  # this will give us chat information which help to get translation id
@@ -45,7 +46,7 @@ def test_6(driver):
     time.sleep(2)
 
     # here we are taking screenshot of the chat-screen (iframe only) not the complete desktop window
-    element = driver.find_element(By.CLASS_NAME, locator.test_chatwindow())
+    element = driver.find_element(By.XPATH, locator.test_chatwindow())
     allure.attach(element.screenshot_as_png, name="test_VA_interaction_timeout_Inactivity_30 MinutesDefault"
                   , attachment_type=attachment_type.PNG)
     screenshot_path = "C://Users//anwarshaikh//PycharmProjects//PS_Billing_Automation//Screenshots//TC#6_Chatinfo.png"
@@ -67,28 +68,28 @@ def test_6(driver):
     b.click()
     logger.info("--TC#6 -Inactivity of 29 min started.--")
     time.sleep(1740)  # 29 min
-    element = driver.find_element(By.CLASS_NAME, locator.test_chatwindow())
+    element = driver.find_element(By.XPATH, locator.test_chatwindow())
     allure.attach(element.screenshot_as_png, name="test_VA_interaction_timeout_Inactivity_30 MinutesDefault_@29min"
                   , attachment_type=attachment_type.PNG)
     screenshot_path = "C://Users//anwarshaikh//PycharmProjects//PS_Billing_Automation//Screenshots//TC#6_29min.png"
     element.screenshot(screenshot_path)
     time.sleep(60)  # 30 min
     logger.info("--TC#6 -Inactivity at 30 min.--")
-    element = driver.find_element(By.CLASS_NAME, locator.test_chatwindow())
+    element = driver.find_element(By.XPATH, locator.test_chatwindow())
     allure.attach(element.screenshot_as_png, name="test_VA_interaction_timeout_Inactivity_30 MinutesDefault_@30min"
                   , attachment_type=attachment_type.PNG)
     screenshot_path = "C://Users//anwarshaikh//PycharmProjects//PS_Billing_Automation//Screenshots//TC#6_30min.png"
     element.screenshot(screenshot_path)
     time.sleep(60)  # 31 min
     logger.info("--TC#6 -Inactivity at 31 min.--")
-    element = driver.find_element(By.CLASS_NAME, locator.test_chatwindow())
+    element = driver.find_element(By.XPATH, locator.test_chatwindow())
     allure.attach(element.screenshot_as_png, name="test_VA_interaction_timeout_Inactivity_30 MinutesDefault_@31min"
                   , attachment_type=attachment_type.PNG)
     screenshot_path = "C://Users//anwarshaikh//PycharmProjects//PS_Billing_Automation//Screenshots//TC#6_33min.png"
     element.screenshot(screenshot_path)
     time.sleep(120)  # 33 min
     logger.info("--TC#6 -Inactivity at 33 min.--")
-    element = driver.find_element(By.CLASS_NAME, locator.test_chatwindow())
+    element = driver.find_element(By.XPATH, locator.test_chatwindow())
     allure.attach(element.screenshot_as_png, name="test_VA_interaction_timeout_Inactivity_30 MinutesDefault_@33min"
                   , attachment_type=attachment_type.PNG)
     screenshot_path = "C://Users//anwarshaikh//PycharmProjects//PS_Billing_Automation//Screenshots//TC#6_final.png"
@@ -101,8 +102,9 @@ def test_6(driver):
     time.sleep(2)
     allure.attach(element.screenshot_as_png, name="test_VA_interaction_timeout_Inactivity_30 MinutesDefault_Final"
                   , attachment_type=attachment_type.PNG)
-    driver.switch_to.default_content()
-    driver.switch_to.frame(driver.find_element(By.ID, 'inqChatStage'))
+
+    driver.find_element(By.XPATH, locator.test_humburger()).click()
+    time.sleep(2)
     driver.find_element(By.XPATH, locator.test_email()).click()
     time.sleep(2)
     driver.find_element(By.ID, locator.test_emailtextarea()).send_keys(locator.test_emailaddress())
@@ -110,6 +112,7 @@ def test_6(driver):
     driver.find_element(By.XPATH, locator.test_emailsend()).click()
     time.sleep(2)
     driver.find_element(By.XPATH, locator.test_closechat()).click()
+    driver.find_element(By.XPATH, locator.test_endchat()).click()
     driver.switch_to.default_content()
     logger.info("--TC#6 -Inactivity of 30 min default working as expected --")
     logger.info("--TC#6 - Test cases ended successfully--")

@@ -80,6 +80,22 @@ class TestReadConfig:
         emailaddress = config.get("common_data", 'email-address')
         return emailaddress
 
+    @staticmethod
+    def test_endchat():
+        endchat = config.get("common_data", 'endchat')
+        return endchat
+
+    @staticmethod
+    def test_closechat2():
+        closechat2 = config.get("common_data", 'closechat2')
+        return closechat2
+
+    @staticmethod
+    def test_endchat2():
+        endchat2 = config.get("common_data", 'endchat2')
+        return endchat2
+
+
 
 class Test_ndepdetails:
     @staticmethod

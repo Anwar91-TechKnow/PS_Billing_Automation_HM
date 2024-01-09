@@ -1,3 +1,4 @@
+from selenium.common import NoSuchElementException, InvalidSessionIdException
 from selenium.webdriver.common.by import By
 import time
 import pytest
@@ -21,6 +22,8 @@ def test_4(driver):
     logger.debug("--TC#4 -Launched the URL Successfully.--")
     driver.maximize_window()
     time.sleep(5)
+    driver.find_element(By.ID,'onetrust-accept-btn-handler').click()
+    time.sleep(2)
     driver.find_element(By.XPATH, locator.test_chaticon()).click()
     time.sleep(2)
     driver.switch_to.frame(driver.find_element(By.NAME, locator.test_frameswitch()))
@@ -30,7 +33,7 @@ def test_4(driver):
     a.send_keys(locator.test_initialmsg())  # this will give us chat information which help to get translation id
     logger.info("--TC#4 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--")
     b.click()
-    time.sleep(3)
+    time.sleep(5)
     # Below code, we are getting chat info in text format and saving at given path.
     # if you want to save file in same folder where text case is present just commented out long path
     # and remove # sign from path which has just name file.
@@ -42,16 +45,14 @@ def test_4(driver):
     with open(file_path, "w") as file:
         # Write the output text to the file
         file.write(content)
-    time.sleep(2)
-
+    time.sleep(4)
     # here we are taking screenshot of the chat-screen (iframe only) not the complete desktop window
-    element = driver.find_element(By.CLASS_NAME, locator.test_chatwindow())
+    element = driver.find_element(By.XPATH, locator.test_chatwindow())
     allure.attach(element.screenshot_as_png, name="test_Email_Transcription",
                   attachment_type=attachment_type.PNG)
     screenshot_path = "C://Users//anwarshaikh//PycharmProjects//PS_Billing_Automation//Screenshots//TC#4_Chatinfo.png"
     element.screenshot(screenshot_path)
     time.sleep(2)
-
     # from below section actual text will get provide by web driver.
     # you can modify send keys text as per your choice however not recommended to use your own text
     # to just avoid code issue.
@@ -69,14 +70,12 @@ def test_4(driver):
     a.send_keys("you contact details")
     b.click()
     time.sleep(2)
-    driver.switch_to.default_content()
     # --------------------------------------------------
     # if you require email chat transcripts just remove comments from below code.
     # remember to update xpath or other locators in respective field.
     # -------------------------------------------------
-    # driver.find_element(By.XPATH, locator.test_humburger()).click()
-    # time.sleep(2)
-    driver.switch_to.frame(driver.find_element(By.ID, 'inqChatStage'))
+    driver.find_element(By.XPATH, locator.test_humburger()).click()
+    time.sleep(2)
     driver.find_element(By.XPATH, locator.test_email()).click()
     time.sleep(2)
     driver.find_element(By.ID, locator.test_emailtextarea()).send_keys(locator.test_emailaddress())
@@ -84,9 +83,8 @@ def test_4(driver):
     driver.find_element(By.XPATH, locator.test_emailsend()).click()
     time.sleep(2)
     driver.find_element(By.XPATH, locator.test_closechat()).click()
+    driver.find_element(By.XPATH, locator.test_endchat()).click()
     driver.switch_to.default_content()
     logger.info("--TC#4 -Email transcription test case completed--")
     logger.info("--TC#4 - Test cases ended successfully--")
     driver.close()
-
-
