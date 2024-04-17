@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_Sessions_getting_logged_or_Not.py:20 --TC#1 (test_Sessions_getting_logged_or_Not) Started--
+[32mINFO    [0m root:test_Sessions_getting_logged_or_Not.py:34 --TC#1 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+[32mINFO    [0m root:test_Sessions_getting_logged_or_Not.py:65 --TC#1 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+[32mINFO    [0m root:test_Sessions_getting_logged_or_Not.py:96 --TC#1 -Able to close chat successfully.--
+[32mINFO    [0m root:test_Sessions_getting_logged_or_Not.py:97 --TC#1 - Test cases ended successfully--
