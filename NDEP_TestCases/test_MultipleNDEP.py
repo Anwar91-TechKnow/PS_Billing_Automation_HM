@@ -30,11 +30,11 @@ locator = Test_ndepdetails
 # eid5 = '46'  # Invalid Id
 
 # demo set 2 for AUS: : Make sure user having access to AUS and able to generate OTP from Google authenticator
-eid1 = '721813295076466235'  # InValid
-eid2 = '721813295076466295'  # Valid
-eid3 = '723783574218993999'  # Valid
+eid1 = '1918645529217393520'  # InValid
+eid2 = '1918645528447186280'  # Valid
+eid3 = '1341621855514392523'  # Valid
 eid4 = '726598300032440792'  # Invalid ID
-eid5 = '722939193238489014'  # valid ID
+eid5 = '722939193238489914'  # valid ID
 
 
 # # Demo set 3 for EU1 : Make sure user having access to EU1 and able to generate OTP from Google authenticator

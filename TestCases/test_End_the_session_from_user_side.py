@@ -21,7 +21,7 @@ def test_2(driver):
     driver.maximize_window()
     time.sleep(5)
     driver.find_element(By.ID, 'onetrust-accept-btn-handler').click()
-    time.sleep(2)
+    time.sleep(5)
     driver.find_element(By.XPATH, locator.test_chaticon()).click()
     time.sleep(2)
     driver.switch_to.frame(driver.find_element(By.NAME, locator.test_frameswitch()))

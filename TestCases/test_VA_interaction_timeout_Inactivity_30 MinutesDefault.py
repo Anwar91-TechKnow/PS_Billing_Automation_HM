@@ -31,7 +31,7 @@ def test_6(driver):
     a.send_keys(locator.test_initialmsg())  # this will give us chat information which help to get translation id
     logger.info("--TC#6 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--")
     b.click()
-    time.sleep(3)
+    time.sleep(5)
     # Below code, we are getting chat info in text format and saving at given path.
     # if you want to save file in same folder where text case is present just commented out long path
     # and remove # sign from path which has just name file.

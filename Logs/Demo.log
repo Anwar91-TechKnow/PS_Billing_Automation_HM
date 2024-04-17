@@ -2075,3 +2075,83 @@
 01/Jan/24 09:46:46:20 PM: INFO: --TC#1 -scripts are interacting with chat window and able to send messages/utterances successfully.--
 01/Jan/24 09:46:46:50 PM: INFO: --TC#1 -Able to close chat successfully.--
 01/Jan/24 09:46:46:50 PM: INFO: --TC#1 - Test cases ended successfully--
+03/Mar/24 12:01:01:53 PM: INFO: --TC#2 (test_End_the_Session_from_userside) Started--
+03/Mar/24 12:04:04:02 PM: INFO: --TC#2 (test_End_the_Session_from_userside) Started--
+03/Mar/24 12:04:04:17 PM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+03/Mar/24 12:04:04:42 PM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+03/Mar/24 12:04:04:42 PM: INFO: --TC#2 - Test cases ended successfully--
+03/Mar/24 03:18:18:08 PM: INFO: --TC#1 (test_Sessions_getting_logged_or_Not) Started--
+03/Mar/24 03:18:18:37 PM: INFO: --TC#1 (test_Sessions_getting_logged_or_Not) Started--
+03/Mar/24 03:18:18:53 PM: INFO: --TC#1 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+03/Mar/24 03:19:19:04 PM: INFO: --TC#1 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+03/Mar/24 03:19:19:33 PM: INFO: --TC#1 -Able to close chat successfully.--
+03/Mar/24 03:19:19:33 PM: INFO: --TC#1 - Test cases ended successfully--
+03/Mar/24 03:19:19:51 PM: INFO: --TC#4 (test_Email_Transcription) Started--
+03/Mar/24 03:20:20:08 PM: INFO: --TC#4 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+03/Mar/24 03:20:20:22 PM: INFO: --TC#4 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+03/Mar/24 03:20:20:37 PM: INFO: --TC#4 -Email transcription test case completed--
+03/Mar/24 03:20:20:37 PM: INFO: --TC#4 - Test cases ended successfully--
+03/Mar/24 11:44:44:06 AM: INFO: --TC#4 (test_Email_Transcription) Started--
+03/Mar/24 11:44:44:33 AM: INFO: --TC#4 (test_Email_Transcription) Started--
+03/Mar/24 11:44:44:46 AM: INFO: --TC#4 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+03/Mar/24 11:45:45:00 AM: INFO: --TC#4 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+03/Mar/24 11:45:45:14 AM: INFO: --TC#4 -Email transcription test case completed--
+03/Mar/24 11:45:45:14 AM: INFO: --TC#4 - Test cases ended successfully--
+03/Mar/24 04:20:20:24 PM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+03/Mar/24 04:20:20:53 PM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+03/Mar/24 04:21:21:09 PM: INFO: --TC#3 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+03/Mar/24 04:21:21:33 PM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+03/Mar/24 04:21:21:47 PM: INFO: --TC#3 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+03/Mar/24 04:21:21:57 PM: INFO: --TC#3 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+03/Mar/24 04:21:21:59 PM: INFO: --TC#3 -28 min inactivity started.--
+03/Mar/24 04:23:23:19 PM: INFO: --TC#6 (test_VA_interaction_timeout_Inactivity_30 MinutesDefault) Started--
+03/Mar/24 04:23:23:39 PM: INFO: --TC#6 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+03/Mar/24 04:23:23:48 PM: INFO: --TC#6 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+03/Mar/24 04:23:23:53 PM: INFO: --TC#6 -Inactivity of 29 min started.--
+03/Mar/24 04:49:49:59 PM: INFO: --TC#3 -28 min inactivity completed.--
+03/Mar/24 04:50:50:07 PM: INFO: --TC#3 -input entered successfully after inactivity of 28 min no issue found.--
+03/Mar/24 04:50:50:18 PM: INFO: --TC#3 -28 min inactivity completed with Email chat conversation successfully.--
+03/Mar/24 04:50:50:18 PM: INFO: --TC#3 - Test cases ended successfully--
+03/Mar/24 04:53:53:53 PM: INFO: --TC#6 -Inactivity at 30 min.--
+03/Mar/24 04:54:54:53 PM: INFO: --TC#6 -Inactivity at 31 min.--
+03/Mar/24 04:58:58:15 PM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+03/Mar/24 04:58:58:43 PM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+03/Mar/24 04:58:58:58 PM: INFO: --TC#3 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+03/Mar/24 04:59:59:10 PM: INFO: --TC#3 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+03/Mar/24 04:59:59:12 PM: INFO: --TC#3 -28 min inactivity started.--
+03/Mar/24 05:01:01:00 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016B2C9C97C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/720f026df163f2330e6c85edec12f987
+03/Mar/24 05:01:01:04 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016B2CE3F370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/720f026df163f2330e6c85edec12f987
+03/Mar/24 05:01:01:08 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016B2CE3F0A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/720f026df163f2330e6c85edec12f987
+03/Mar/24 11:17:17:45 AM: INFO: --TC#2 (test_End_the_Session_from_userside) Started--
+03/Mar/24 11:18:18:07 AM: INFO: --TC#2 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+03/Mar/24 11:18:18:32 AM: INFO: --TC#2 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+03/Mar/24 11:18:18:32 AM: INFO: --TC#2 - Test cases ended successfully--
+03/Mar/24 11:19:19:23 AM: INFO: --TC#1 (test_Sessions_getting_logged_or_Not) Started--
+03/Mar/24 11:19:19:35 AM: INFO: --TC#1 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+03/Mar/24 11:19:19:46 AM: INFO: --TC#1 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+03/Mar/24 11:20:20:18 AM: INFO: --TC#1 (test_Sessions_getting_logged_or_Not) Started--
+03/Mar/24 11:20:20:29 AM: INFO: --TC#1 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+03/Mar/24 11:20:20:42 AM: INFO: --TC#1 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+03/Mar/24 11:21:21:10 AM: INFO: --TC#1 -Able to close chat successfully.--
+03/Mar/24 11:21:21:10 AM: INFO: --TC#1 - Test cases ended successfully--
+03/Mar/24 11:21:21:52 AM: INFO: --TC#3 (test_Inactivity_Timeout_28_Minutes) Started--
+03/Mar/24 11:22:22:03 AM: INFO: --TC#3 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+03/Mar/24 11:22:22:15 AM: INFO: --TC#3 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+03/Mar/24 11:22:22:17 AM: INFO: --TC#3 -28 min inactivity started.--
+03/Mar/24 11:22:22:49 AM: INFO: --TC#6 (test_VA_interaction_timeout_Inactivity_30 MinutesDefault) Started--
+03/Mar/24 11:22:22:59 AM: INFO: --TC#6 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+03/Mar/24 11:23:23:07 AM: INFO: --TC#6 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+03/Mar/24 11:23:23:11 AM: INFO: --TC#6 -Inactivity of 29 min started.--
+03/Mar/24 11:23:23:42 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CB3BDDA820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/30c8664380ad30790e5dd316d817b58c
+03/Mar/24 11:23:23:46 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CB3C252520>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/30c8664380ad30790e5dd316d817b58c
+03/Mar/24 11:23:23:50 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CB3C038BE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/30c8664380ad30790e5dd316d817b58c
+03/Mar/24 11:24:24:16 AM: INFO: --TC#6 (test_VA_interaction_timeout_Inactivity_30 MinutesDefault) Started--
+03/Mar/24 11:24:24:28 AM: INFO: --TC#6 -chatinfo messages initialed, Screenshot and text of chatinfo has been collected--
+03/Mar/24 11:24:24:38 AM: INFO: --TC#6 -scripts are interacting with chat window and able to send messages/utterances successfully.--
+03/Mar/24 11:24:24:42 AM: INFO: --TC#6 -Inactivity of 29 min started.--
+03/Mar/24 11:50:50:18 AM: INFO: --TC#3 -28 min inactivity completed.--
+03/Mar/24 11:50:50:25 AM: INFO: --TC#3 -input entered successfully after inactivity of 28 min no issue found.--
+03/Mar/24 11:50:50:36 AM: INFO: --TC#3 -28 min inactivity completed with Email chat conversation successfully.--
+03/Mar/24 11:50:50:36 AM: INFO: --TC#3 - Test cases ended successfully--
+03/Mar/24 11:54:54:42 AM: INFO: --TC#6 -Inactivity at 30 min.--
+03/Mar/24 11:55:55:43 AM: INFO: --TC#6 -Inactivity at 31 min.--
